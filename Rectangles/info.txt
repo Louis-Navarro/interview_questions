@@ -1,0 +1,5 @@
+Given a list of Cartesian coordinates, find :
+a) every rectangle parallel to the x and y axis
+b) every rectangle
+
+https://www.youtube.com/watch?v=EuPSibuIKIg
